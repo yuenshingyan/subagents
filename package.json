@@ -1,0 +1,9 @@
+{
+  "name": "subagents",
+  "version": "1.0.0",
+  "description": "subagents skill for pi",
+  "keywords": ["pi-package"],
+  "pi": {
+    "skills": ["./skills"]
+  }
+}
