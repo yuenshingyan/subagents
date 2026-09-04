@@ -9,7 +9,7 @@ current context, or when you ask for parallel agents.
 ## Install
 
 ```bash
-pi install git:github.com/YOUR_USERNAME/subagents
+pi install git:github.com/yuenshingyan/subagents
 ```
 
 ## Scripts
